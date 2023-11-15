@@ -1,8 +1,7 @@
 # Name: Felix Barrientos
 # Program Purpose: This program allows (nonexistent) customers to order from, the nonexistent, Palermo's Pizza
 # Palermo's Pizza
-import datetime
-now = datetime.datetime.now
+
 # GLOBAL VARIABLES #
 S_pizza = 9.99
 M_pizza = 12.99
