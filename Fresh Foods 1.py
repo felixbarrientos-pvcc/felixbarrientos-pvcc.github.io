@@ -64,10 +64,6 @@ def main():
     perform_calculations()
     display_results()
 
-def get_user_data():
-    job_type = input("Enter job type (C/S/J/M): ")
-    hours_worked = int(input("Enter hours worked: "))
-
 def perform_calculations():
     global total_gross, total_net
 
